@@ -1,6 +1,7 @@
 ###############################################
 # Python Alıştırmalar
 ###############################################
+from anaconda_project.internal.cli.command_commands import main_list
 
 ###############################################
 # GÖREV 1: Veri yapılarının tipleriniz inceleyiniz.
